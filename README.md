@@ -1,1 +1,3 @@
-# passage-app-android
+# PASSAGE Android App
+
+Repo for Lake County PASSAGE Android App
