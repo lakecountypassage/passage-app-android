@@ -1,0 +1,5 @@
+v1.0 (2010-ish)
+- initial app
+
+v2.0 (est. 2018)
+- complete redesign
