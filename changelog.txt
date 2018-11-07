@@ -5,7 +5,8 @@ v2.0 (Nov 7, 2018)
 - Complete redesign of the app's user interface
 - Real-time incident and roadwork events now have more details
 - List of incident and roadwork events
+- Snapshot icons group at different zoom levels to reduce icon clutter
 - Snapshots have fulll screen and zoom controls
-- Reporting feature with incident type and location
+- Reporting feature with incident type and user's location
 - Quick shortcuts to call or email the Transportation Management Center (TMC)
 - Updated to the latest Android API version
